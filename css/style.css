@@ -11,7 +11,8 @@ body {
     max-width: 50%;
 }
 
-.first-verse {
+.verse {
+    margin-top: 3em;
     text-align: center;
     font-family: arial;
 }
@@ -22,7 +23,7 @@ body {
     font-family: arial;
 }
 
-.second-verse {
+.verse {
     margin-top: 3em;
     text-align: center;
     font-family: arial;
