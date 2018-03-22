@@ -1,0 +1,17 @@
+body {
+    background: red;
+    box-sizing: border-box;
+    width: 100%;
+    max-width: 1000px;
+}
+
+.picture {
+    display: block;
+    margin: 0 auto;
+    max-width: 50%;
+}
+
+.first-verse {
+    text-align: center;
+    font-family: arial;
+}
